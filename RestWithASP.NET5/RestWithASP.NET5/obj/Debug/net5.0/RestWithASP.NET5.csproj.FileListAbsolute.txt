@@ -21,3 +21,13 @@ C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\obj\D
 C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\ref\RestWithASP.NET5.dll
 C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.pdb
 C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.genruntimeconfig.cache
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\MySqlConnector.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Programacao\Projetos\Leandro-ASP.NET5\RestWithASP.NET5\RestWithASP.NET5\obj\Debug\net5.0\RestWithASP.NET5.csproj.CopyComplete
